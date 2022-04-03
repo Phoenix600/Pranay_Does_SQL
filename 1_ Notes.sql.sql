@@ -11,6 +11,8 @@ A data base can be stored in different in differnt
     On computer
     in comment section in code editor 
     
+DATA BASE MANAGEMENT SYSTEMS (DBMS)
 
+A special software program that helps to user create and maintain a data-base
 
 */
