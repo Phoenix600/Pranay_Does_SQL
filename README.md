@@ -1,4 +1,4 @@
-# SQL Notes by Mia Khalifa
+# SQL (Structured Query Language)
 
 ### Database
 
