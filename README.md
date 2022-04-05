@@ -44,6 +44,8 @@ A database can be stored in different mediums.
   
   Ex. A google search is a query.
   
+  ### Tables and Keys
+  
 
 ---
 
